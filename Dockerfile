@@ -1,3 +1,4 @@
+# Author: farrandi
 FROM quay.io/jupyter/minimal-notebook:2023-11-20
 
 # docker build -t 522_ind_2 .
